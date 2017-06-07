@@ -11,12 +11,12 @@ list images
 docker images
 ```
 
-run container:
+run container: (add `-d` flag in order to run as daemon)
 ```
 docker run -p 4000:80 friendlyhello
 ```
-list containers:
 
+list containers:
 ```
 docker ps -a
 ```
