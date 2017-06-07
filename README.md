@@ -11,7 +11,7 @@ list images
 docker images
 ```
 
-run container: (add `-d` flag in order to run as daemon)
+run container (add `-d` flag in order to run as daemon):
 ```
 docker run -p 4000:80 friendlyhello
 ```
