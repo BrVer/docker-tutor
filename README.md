@@ -1,5 +1,5 @@
 # docker-tutor
-https://docs.docker.com/get-started/part2/#apppy
+https://docs.docker.com/get-started/part2/#recap-and-cheat-sheet-optional
 
 build image:
 ```
